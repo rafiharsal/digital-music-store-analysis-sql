@@ -2,15 +2,15 @@
 
 This repository contains SQL queries and analysis for understanding the transactional data of a digital music store. The queries address specific business questions and provide actionable insights for management, marketing, and product teams. Screenshots of query results are included for easy reference.
 
+- **ERD Diagram**
+![ERD](Image/music_store_erd.png)
+
 ## Repository Structure
 
 Each task is organized into a separate section with:
 - The SQL query
 - A description of the task and results
 - A screenshot of the query result, saved in the `Image/` folder of this repository
-
-## ERD Diagram
-![ERD](Image/music_store_erd.png)
 
 ### Tasks
 
